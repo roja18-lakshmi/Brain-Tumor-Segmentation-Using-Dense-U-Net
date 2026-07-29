@@ -237,7 +237,13 @@ pip install tensorflow keras opencv-python nibabel numpy pandas matplotlib sciki
 * Brain Tumor Segmentation using Optimized Depthwise Separable Convolutional Neural Network with Dense U-Net
 
 ---
+## Model Weights
 
+The repository includes:
+
+- `best_model.weights.h5` – Model weights with the best validation performance.
+- `last_model.weights.h5` – Model weights saved after the final training epoch.
+- 
 ## Authors
 
 **M. Roja Lakshmi**
